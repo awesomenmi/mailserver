@@ -76,3 +76,9 @@ Subject: hello
 )
 a OK Fetch completed (0.001 + 0.000 secs).
 ```
+
+Подключение с помощью Thunderbird:
+
+![alt-текст](https://github.com/awesomenmi/mailserver/blob/master/Screenshot%20from%202020-07-15%2019-49-27.png)
+
+![alt-текст](https://github.com/awesomenmi/mailserver/blob/master/Screenshot%20from%202020-07-15%2019-49-55.png)
